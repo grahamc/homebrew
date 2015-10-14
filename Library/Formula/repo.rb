@@ -3,7 +3,7 @@ class Repo < Formula
   homepage "https://source.android.com/source/developing.html"
   url "https://gerrit.googlesource.com/git-repo/+archive/v1.12.32.tar.gz"
   version "1.22"
-  sha256 "213982ecdc444a52d7be08f67eb115a8d6676de91e7450d383b69ba22ef5f987"
+  sha256 "743c6348e4587b3dd02bee005174260decac516bc50ff48aa756371491a5fa33"
   revision 1
 
   def install
